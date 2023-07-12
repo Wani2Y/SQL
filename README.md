@@ -1,0 +1,2 @@
+# SQL
+ Newbee learning SQL :)
